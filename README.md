@@ -1,9 +1,8 @@
-サクラエディタ用マクロ
-https://github.com/sakura-editor/sakura
+[サクラエディタ](https://github.com/sakura-editor/sakura)用マクロ
 
-noIndent.mac
-occured.js
-reIndent.mac
+- noIndent.mac
+- occured.js
+- reIndent.mac
 
 夫々のマクロを外部マクロに登録する。
 <img width="612" height="637" alt="image" src="https://github.com/user-attachments/assets/8f4c1824-e5c7-4361-86c9-bc39c90d1a27" />
